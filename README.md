@@ -1,6 +1,6 @@
 # Angel MDCS
 
-**Fullstack Web Developer in progress · Building scalable and functional digital solutions**
+**Fullstack Web Developer · Building scalable and functional digital solutions**
 
 ---
 
